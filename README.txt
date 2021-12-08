@@ -1,0 +1,1 @@
+basic collision system for GMS2 for platformers & top down games
